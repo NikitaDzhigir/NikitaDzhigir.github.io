@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на курс, посвященный изучению разработки веб-приложений на языке Python с использованием фреймворка Flask
 
-You can use the [editor on GitHub](https://github.com/nick-stark/NikitaDzhigir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Цель** данного учебного курса - изучить основы разработки веб-приложений с использованием Flask на языке Python
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Задачи данного учебного курса:**
+  1. Понять структуру приложений Flask
+  2. Освоить навыки разработки веб-приложений с помощью Flask и его расширений
 
-### Markdown
+**Перечень знаний, умений и навыков, приобретаемых при изучении курса:**
+- Знание основ работы с фреймвороком Flask 
+- Умение работать с шаблонами Flask
+- Умение работать с веб-формами, применяя Flask 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Основные результаты деятельности обучения по данному курс**
+- Вы сможете создавать веб-приложения с помощью Flask и некоторых его расширений
+### Автор курса:
+*Джигирь Никита Иванович, студент 2 курса магистратуры Кубанского государсвенного университета, 
+факультета компьютерных технологий и прикладной информатики*
 
-```markdown
-Syntax highlighted code block
+### Информация о фреймворке Flask
+Flask является микрофреймворком для создания вебсайтов на языке Python. Flask изначально проектировался как расширяемый фреймворк – он имеет монолитное ядро, реализующее основные службы, а все остальное поддерживается посредством расширений. Поскольку вы можете выбирать только необходимые пакеты, в результате получается достаточно ограниченный комплект программных средств, не поддающийся неконтролируемому разбуханию и в точности соответствующий вашим потребностям.
 
-# Header 1
-## Header 2
-### Header 3
+### Материалы курса:
 
-- Bulleted
-- List
+[Урок 1 - Структура приложения на Flask](Lessons/lesson_1.md)
 
-1. Numbered
-2. List
+[Урок 2 - Шаблоны](Lessons/lesson_2.md)
 
-**Bold** and _Italic_ and `Code` text
+[Урок 3 - Веб-формы](Lessons/lesson_3.md)
 
-[Link](url) and ![Image](src)
-```
+[Урок 4 - Работа с базами данных](Lessons/lesson_4.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Тест](https://docs.google.com/forms/u/0/)
 
-### Jekyll Themes
+[Задания](Lessons/tasks.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nick-stark/NikitaDzhigir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Список использованной литературы](Lessons/list_sources.md)
