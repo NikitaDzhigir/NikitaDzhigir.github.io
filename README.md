@@ -30,7 +30,7 @@ Flask является микрофреймворком для создания 
 
 [Урок 4 - Работа с базами данных](Lessons/lesson_4.md)
 
-[Тест](https://docs.google.com/forms/u/0/)
+[Тест](https://docs.google.com/forms/d/e/1FAIpQLSdF7VHTQGe5f_sjRjioL9uzVJl_lMgk_4jB1pvswB-dyXU9tQ/viewform)
 
 [Задания](Lessons/tasks.md)
 
